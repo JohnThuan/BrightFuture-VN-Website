@@ -1,1 +1,1 @@
-# BrightFuture-VN-Website
+# BrightFuture VN Website
