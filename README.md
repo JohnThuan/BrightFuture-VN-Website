@@ -1,6 +1,6 @@
 # BrightFuture VN 🌟
 
-Visit our website: [BrightFuture VN](https://brightfuturevn.org)
+Website deployed at: [BrightFuture VN](https://brightfuturevn.org)
 
 ## About Us
 BrightFuture is a non-profit organization dedicated to improving the lives of children in Vietnamese orphanages. Through strategic fundraising events and community engagement, we provide essential resources, educational support, and sustainable solutions to create lasting positive impact.
